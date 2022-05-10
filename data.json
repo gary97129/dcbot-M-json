@@ -40,15 +40,15 @@
 
     "help": {
         "抽籤類": [
-            "1.設定抽籤標題***title*** :point_right:`..ti` :point_right:`..ti 誰付錢`\n",
-            "2.將元素加入抽籤清單***add*** :point_right:`..a` :point_right:`..a 小白 小爛`\n",
-            "3.將元素從抽籤清單中移除***remove*** :point_right:`..rm` :point_right:`..rm 小白 小爛`\n",
-            "4.抽籤(不重複)***sample*** :point_right:`..sa` :point_right:`..sa 5`\n",
-            "5.抽籤(可重複)***ballot*** :point_right:`..ba` :point_right:`..ba 5`\n",
-            "6.查看目前抽籤清單與抽籤標題***list*** :point_right:`..li`\n",
-            "7.清空抽籤清單***clear*** :point_right:`..c`\n",
-            "8.清空抽籤標題***clear title*** :point_right:`..ct`\n",
-            "9.全部清空***clear all*** :point_right:`..ca`"
+            "1.設定抽籤標題***title*** :point_right:`!ti` :point_right:`!ti 誰付錢`\n",
+            "2.將元素加入抽籤清單***add*** :point_right:`!a` :point_right:`!a 小白 小爛`\n",
+            "3.將元素從抽籤清單中移除***remove*** :point_right:`!rem` :point_right:`!rem 小白 小爛`\n",
+            "4.抽籤(不重複)***sample*** :point_right:`!sa` :point_right:`!sa 5`\n",
+            "5.抽籤(可重複)***ballot*** :point_right:`!ba` :point_right:`!ba 5`\n",
+            "6.查看目前抽籤清單與抽籤標題***list*** :point_right:`!li`\n",
+            "7.清空抽籤清單***clear*** :point_right:`!c`\n",
+            "8.清空抽籤標題***clear title*** :point_right:`!ct`\n",
+            "9.全部清空***clear all*** :point_right:`!ca`"
         ],
         "嗆類": [
             "1.想被小白爛嗆的話，可以試試直接叫它的名字\n",
